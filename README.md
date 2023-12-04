@@ -1,5 +1,5 @@
 <img src="header.png" alt="Лого">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=100&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" /></a>
 <h3 align="center">Мои навыки:</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Лого"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
