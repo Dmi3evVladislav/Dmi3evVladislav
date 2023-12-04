@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <h4 align="center">И все вытекающие...</h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmi3evVladislav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmi3evVladislav&theme=dracula">
+
 
 
 
