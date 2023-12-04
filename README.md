@@ -1,4 +1,4 @@
-<img src="header.png" alt="Лого" height="150">
+<img src="header.png" alt="Лого">
 
 <!--
 **Dmi3evVladislav/Dmi3evVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
