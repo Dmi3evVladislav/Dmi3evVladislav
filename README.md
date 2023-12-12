@@ -11,9 +11,8 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+И все вытекающие...
 </p>
-
-<h4 align="center">И все вытекающие...</h4>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmi3evVladislav&theme=dracula">
 
 
