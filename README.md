@@ -1,6 +1,7 @@
 <img src="header.png" alt="Лого">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" /></a>
 <h3 align="center">Мои навыки:</h3>
+<p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Лого"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -10,6 +11,8 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+</p>
+
 <h4 align="center">И все вытекающие...</h4>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmi3evVladislav&theme=dracula">
 
