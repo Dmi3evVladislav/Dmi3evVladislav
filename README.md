@@ -1,5 +1,5 @@
 <img src="header.png" alt="Лого">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" /></a>
 <h3 align="center">Мои навыки:</h3>
 <p>Frontend:</p>
 <p>
