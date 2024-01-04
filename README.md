@@ -1,5 +1,5 @@
 <img src="header.png" alt="Лого">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&center=false&multiline=true&random=false&width=435&height=60&lines=My+name+is+Vladislav+%E2%9C%A8;I+develop+websites+and+bots" alt="Typing SVG" />
 <h3 align="center">Мои навыки:</h3>
 <p>Frontend:</p>
 <p>
